@@ -1,6 +1,4 @@
-Here's a README.md template for your stock portfolio tracking tool. It includes sections for project overview, installation, usage, and contribution guidelines.
 
----
 
 Stock Portfolio Tracker
 
