@@ -96,3 +96,9 @@ Usage
 - **POST** `/api/portfolio` - Add a new stock to the portfolio.
 - **GET** `/api/stock/<symbol>` - Get real-time data and recommendations for a specific stock.
 
+- 📬 Contact
+
+For any questions or feedback, feel free to reach out to me at pugal06012002@gmail.com.
+
+
+
